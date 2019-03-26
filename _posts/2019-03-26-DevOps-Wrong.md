@@ -2,8 +2,8 @@
 layout: post
 title: DevOps, you're doing it wrong.
 excerpt:
-         <h3></h3>
-         <p>Find out how!</p>
+         <h3>Somewhere there is a highly experienced systems engineer unable to find work because everyone is looking for a developer to maintain their systems</h3>
+         <p>Being a Sysadmin is funny pursuit. You are put in charge of systems that more often than not you only had a small hand in designing and someone else is actively trying to break, from hackers trying to use your server to Ion-cannon LolCatz to a dev that accidentally enabled debugging on all prod servers</p>
 ---
 ### Somewhere there is a highly experienced systems engineer unable to find work because everyone is looking for a developer to maintain their systems.
 

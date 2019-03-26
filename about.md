@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+look at you wanting to find out more :-)
 
 ### More Information
 

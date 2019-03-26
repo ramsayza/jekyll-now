@@ -69,6 +69,8 @@ kramdown:
     css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
+
+theme: jekyll-theme-hacker
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
@@ -84,5 +86,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-minimal
